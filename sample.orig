@@ -1,0 +1,8 @@
+first line pulled
+second line
+
+<<<<<<< HEAD
+fourth line for master
+=======
+third line for dev
+>>>>>>> dev
